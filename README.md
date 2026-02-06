@@ -13,7 +13,7 @@ This projects provides a comprehensive look at global job posting trends, focusi
 
 
 **METHODOLOGY**
--Data cleaning using MySQL
+- Data cleaning using MySQL
 -
 -
 -
