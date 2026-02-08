@@ -6,6 +6,8 @@
  This project provides a comprehensive look at global job posting trends, focusing on salary distributions across roles and companies, as well as geographic demand.
 
 
+
+
 **SCOPE**
 
 **The analysis covers**:
@@ -27,14 +29,18 @@
 
         
 
-**METHODOLOGY**
+   **METHODOLOGY**
+   
    **Data Cleaning:** Used MySQL to handle null values, standardize job titles, and format currency.
 
    **Data Modeling:** Established relationships between job roles, locations, and salary data.
 
    **Data Visualization:** Created an interactive dashboard in Power BI to enable year-over-year comparisons (2022 vs. 2023).
 
+
+
 **TOOLS**
+
 **MySQL:** Data cleaning and transformation.
 
 **Power BI:** Data visualization and dashboard design.
