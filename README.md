@@ -1,8 +1,8 @@
 # Job_posting_facts Dashboard (2022-2023)
 
 **PROJECT OVERVIEW**
-  *Objective*
-- This project provides a comprehensive look at global job posting trends, focusing on salary distributions across roles and companies, as well as geographic demand.
+     -*Objective:*-
+ This project provides a comprehensive look at global job posting trends, focusing on salary distributions across roles and companies, as well as geographic demand.
 
 
 **SCOPE**
