@@ -122,9 +122,5 @@ GROUP BY job_via
 ORDER BY posting_count DESC;
 
 
-<img width="1694" height="722" alt="AA" src="https://github.com/user-attachments/assets/56f81dd0-a2a4-4ab0-9b85-9e0fac519554" />
-
-
-<img width="1699" height="604" alt="AAA" src="https://github.com/user-attachments/assets/85b090e9-6ca6-4b34-b0d3-70fbbb2e7b0a" />
 
 
