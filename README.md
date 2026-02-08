@@ -9,15 +9,15 @@
 
 **The analysis covers**:
 
-   - *Skill Requirements*: Categorizing 252 distinct skills across 10 different skill types required in the current market.
+   - **Skill Requirements:** Categorizing 252 distinct skills across 10 different skill types required in the current market.
 
-   - *Market Demand*: Identified Data Analyst (197K) as the most frequently posted role, followed closely by Data Engineer and Data Scientist.
+   - **Market Demand:** Identified Data Analyst (197K) as the most frequently posted role, followed closely by Data Engineer and Data Scientist.
 
-   - *Salary Leaders*: Highlighted that Senior Data Scientists command the highest average salary at $154K.
+   - **Salary Leaders:** Highlighted that Senior Data Scientists command the highest average salary at $154K.
 
-   - *Platform Dominance*: Visualized that LinkedIn is the primary source of job postings, accounting for 190K entries.
+   - **Platform Dominance:** Visualized that LinkedIn is the primary source of job postings, accounting for 190K entries.
 
-   - *Top Paying Companies*: Comparing average salary offerings across top-tier companies like MSP Staffing  LTD, Mantys and ReServe.
+   - **Top Paying Companies:** Comparing average salary offerings across top-tier companies like MSP Staffing  LTD, Mantys and ReServe.
 
 
 
@@ -27,16 +27,16 @@
         
 
 **METHODOLOGY**
-Data Cleaning: Used MySQL to handle null values, standardize job titles, and format currency.
+   **Data Cleaning:** Used MySQL to handle null values, standardize job titles, and format currency.
 
-Data Modeling: Established relationships between job roles, locations, and salary data.
+   **Data Modeling:** Established relationships between job roles, locations, and salary data.
 
-Data Visualization: Created an interactive dashboard in Power BI to enable year-over-year comparisons (2022 vs. 2023).
+   **Data Visualization:** Created an interactive dashboard in Power BI to enable year-over-year comparisons (2022 vs. 2023).
 
 **TOOLS**
-MySQL: Data cleaning and transformation.
+**MySQL:** Data cleaning and transformation.
 
-Power BI: Data visualization and dashboard design.
+**Power BI:** Data visualization and dashboard design.
 
 
 
