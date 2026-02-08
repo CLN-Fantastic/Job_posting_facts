@@ -1,5 +1,4 @@
-<img width="1699" height="604" alt="AAA" src="https://github.com/user-attachments/assets/bce71c50-5297-48ac-b2c8-2d643eebbf78" />
-<img width="1694" height="722" alt="AA" src="https://github.com/user-attachments/assets/bf9db5b3-68fa-4b00-a2b2-bb4ad3957441" />
+
 # Job_posting_facts Dashboard (2022-2023)
 
 **PROJECT OVERVIEW**
@@ -47,7 +46,8 @@
 
 **Power BI:** Data visualization and dashboard design.
 
-
+<img width="1694" height="722" alt="AA" src="https://github.com/user-attachments/assets/bf9db5b3-68fa-4b00-a2b2-bb4ad3957441" />
+<img width="1699" height="604" alt="AAA" src="https://github.com/user-attachments/assets/bce71c50-5297-48ac-b2c8-2d643eebbf78" />
 
 
 
