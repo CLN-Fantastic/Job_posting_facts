@@ -2,7 +2,7 @@
 
 **PROJECT OVERVIEW**
 
-     *Objective:*
+*Objective:*
  This project provides a comprehensive look at global job posting trends, focusing on salary distributions across roles and companies, as well as geographic demand.
 
 
